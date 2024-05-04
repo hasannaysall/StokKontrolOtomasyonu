@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aydin\\Desktop\\stock_kontrol\\Source\\stock_control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1439ABCB-F1F6-435B-853F-8BA911D3FE2C}|stock_control\\stock_control.csproj|c:\\users\\aydin\\desktop\\stock_kontrol\\source\\stock_control\\stock_control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1439ABCB-F1F6-435B-853F-8BA911D3FE2C}|stock_control\\stock_control.csproj|solutionrelative:stock_control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1439ABCB-F1F6-435B-853F-8BA911D3FE2C}|stock_control\\stock_control.csproj|c:\\users\\aydin\\desktop\\stock_kontrol\\source\\stock_control\\stock_control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1439ABCB-F1F6-435B-853F-8BA911D3FE2C}|stock_control\\stock_control.csproj|solutionrelative:stock_control\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stock_kontrol\\Source\\stock_control\\stock_control\\Program.cs",
+              "RelativeDocumentMoniker": "stock_control\\Program.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stock_kontrol\\Source\\stock_control\\stock_control\\Program.cs",
+              "RelativeToolTip": "stock_control\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:09:47.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stock_kontrol\\Source\\stock_control\\stock_control\\Form1.cs",
+              "RelativeDocumentMoniker": "stock_control\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stock_kontrol\\Source\\stock_control\\stock_control\\Form1.cs [Design]",
+              "RelativeToolTip": "stock_control\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:43:54.224Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
