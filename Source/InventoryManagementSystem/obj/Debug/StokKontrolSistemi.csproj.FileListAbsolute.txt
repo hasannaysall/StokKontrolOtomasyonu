@@ -21,6 +21,9 @@ C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\De
 C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\StokKontrolSistemi.csproj.CoreCompileInputs.cache
 C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
 C:\Users\hasan\OneDrive\Masaüstü\stok kontrol\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
-C:\Users\Aydin\Desktop\stok kontrol - Kopya (2)\InventoryManagementSystem\obj\Debug\StokKontrolSistemi.csproj.AssemblyReference.cache
-C:\Users\Aydin\Desktop\stok kontrol - Kopya (2)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
-C:\Users\Aydin\Desktop\stok kontrol - Kopya (2)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\Aydin\Desktop\cu\stok kontrol - Kopya (2)\InventoryManagementSystem\obj\Debug\StokKontrolSistemi.csproj.AssemblyReference.cache
+C:\Users\Aydin\Desktop\cu\stok kontrol - Kopya (2)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\Aydin\Desktop\cu\stok kontrol - Kopya (2)\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\Aydin\Desktop\StokKontrolOtomasyonu\Source\InventoryManagementSystem\obj\Debug\StokKontrolSistemi.csproj.AssemblyReference.cache
+C:\Users\Aydin\Desktop\StokKontrolOtomasyonu\Source\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\Aydin\Desktop\StokKontrolOtomasyonu\Source\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
