@@ -13,13 +13,19 @@ namespace InventoryManagementSystem
 {
     public partial class CustomerForm : Form
     {
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\hasan\OneDrive\Belgeler\dbStokKontrolSistemi.mdf;Integrated Security=True;Connect Timeout=30");
+
+        SqlConnection con;
         SqlCommand cm = new SqlCommand();
         SqlDataReader dr;
+        FilePathName filePathName;
         public CustomerForm()
         {
             InitializeComponent();
+
+            filePathName = new FilePathName();
+            con = new SqlConnection(filePathName.getFilePath());
             LoadCustomer();
+
         }
 
         public void LoadCustomer()

@@ -1,168 +1,168 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\",
+  "WorkspaceRootPath": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|c:\\users\\aydin\\desktop\\stok kontrol - kopya (2)\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|c:\\users\\aydin\\desktop\\stokkontrolotomasyonu\\source\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|StokKontrolSistemi||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\usermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\ordermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\StokKontrolSistemi.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -175,19 +175,19 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasan\\AppData\\Local\\Temp\\zvrmhuqy..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productmoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -197,59 +197,59 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hasan\\AppData\\Local\\Temp\\xvjyspn1..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customermoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categorymoduleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\customerbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\inventorymanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\inventorymanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{756E839F-D568-4CBA-9C84-450A19CC7030}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -260,15 +260,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\App.config",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\App.config",
+              "RelativeToolTip": "InventoryManagementSystem\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-28T12:43:17.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StokKontrolSistemi",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\StokKontrolSistemi.csproj",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\StokKontrolSistemi.csproj",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\StokKontrolSistemi.csproj",
+              "RelativeToolTip": "InventoryManagementSystem\\StokKontrolSistemi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-28T12:37:40.734Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "UserModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\UserModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -278,9 +306,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "OrderModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\OrderModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -290,10 +318,10 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "WelcomeForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\WelcomeForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\WelcomeForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\WelcomeForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\WelcomeForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\WelcomeForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T12:14:30.895Z"
             },
@@ -301,10 +329,10 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "UserForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T12:14:20.988Z"
             },
@@ -312,10 +340,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CustomerButton.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerButton.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerButton.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerButton.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerButton.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerButton.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerButton.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:44:22.674Z"
             },
@@ -323,9 +351,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CustomerForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerForm.cs [Design]",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerForm.cs [Design]",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:44:24.376Z",
@@ -333,36 +361,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StokKontrolSistemi",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\StokKontrolSistemi.csproj",
-              "RelativeDocumentMoniker": "InventoryManagementSystem\\StokKontrolSistemi.csproj",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\StokKontrolSistemi.csproj",
-              "RelativeToolTip": "InventoryManagementSystem\\StokKontrolSistemi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-04-28T12:37:40.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\App.config",
-              "RelativeDocumentMoniker": "InventoryManagementSystem\\App.config",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\App.config",
-              "RelativeToolTip": "InventoryManagementSystem\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-28T12:43:17.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "UserModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T12:14:27.45Z"
             },
@@ -370,9 +374,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "WelcomeForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\WelcomeForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\WelcomeForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\WelcomeForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\WelcomeForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -382,9 +386,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "UserForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\UserForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,10 +398,10 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "WelcomeForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\WelcomeForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\WelcomeForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\WelcomeForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\WelcomeForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\WelcomeForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T17:56:26.579Z"
             },
@@ -405,9 +409,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "WelcomeForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\WelcomeForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\WelcomeForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\WelcomeForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\WelcomeForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\WelcomeForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\WelcomeForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -417,10 +421,10 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "UserModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T17:45:04.111Z"
             },
@@ -428,9 +432,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "UserModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\UserModuleForm.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -440,10 +444,10 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "UserForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\UserForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:57:22.499Z"
             },
@@ -451,9 +455,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UserForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\UserForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\UserForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\UserForm.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwA8AAADJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -463,9 +467,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ProductModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\ProductModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -475,10 +479,10 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ProductModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T09:40:48.552Z"
             },
@@ -486,9 +490,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ProductForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\ProductForm.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAAwDQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -498,10 +502,10 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "ProductForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T09:40:26.395Z"
             },
@@ -509,10 +513,10 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "OrderModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T11:56:34.69Z"
             },
@@ -520,10 +524,10 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "OrderModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:57:00.36Z"
             },
@@ -531,9 +535,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "OrderForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\OrderForm.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAAAEEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,10 +547,10 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "OrderForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:50:30.33Z"
             },
@@ -554,9 +558,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "OrderForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\OrderForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -566,10 +570,10 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "MainForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\MainForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\MainForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:50:17.18Z"
             },
@@ -577,9 +581,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "OrderModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\OrderModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -589,10 +593,10 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "LoginForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:50:14.866Z"
             },
@@ -600,9 +604,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "CustomerModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwBoAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -612,10 +616,10 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "CustomerModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:47:09.803Z"
             },
@@ -623,9 +627,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "CustomerForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -635,9 +639,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "CategoryModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CategoryModuleForm.cs",
               "ViewState": "AQIAAEoAAAAAAAAAAAAAAFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,10 +651,10 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "CategoryModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:41:56.169Z"
             },
@@ -658,10 +662,10 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "CategoryForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T07:39:22.674Z"
             },
@@ -669,9 +673,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "CategoryForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CategoryForm.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAAAEAAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -681,9 +685,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\LoginForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAqwA8AAADJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -693,9 +697,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -705,9 +709,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\LoginForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\LoginForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAADJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -717,9 +721,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -729,9 +733,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "CustomerForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -741,10 +745,10 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "ProductForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:57:09.336Z"
             },
@@ -753,7 +757,7 @@
               "DocumentIndex": 42,
               "Title": "SQLQuery3.sql ",
               "DocumentMoniker": "C:\\Users\\hasan\\AppData\\Local\\Temp\\dq00ekbx..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\hasan\\AppData\\Local\\Temp\\dq00ekbx..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\hasan\\AppData\\Local\\Temp\\dq00ekbx..sql",
               "ToolTip": "SQLQuery3.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-04-28T09:41:36.921Z"
@@ -763,7 +767,7 @@
               "DocumentIndex": 43,
               "Title": "SQLQuery2.sql ",
               "DocumentMoniker": "C:\\Users\\hasan\\AppData\\Local\\Temp\\zvrmhuqy..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\hasan\\AppData\\Local\\Temp\\zvrmhuqy..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\hasan\\AppData\\Local\\Temp\\zvrmhuqy..sql",
               "ToolTip": "SQLQuery2.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-04-28T08:45:40.787Z"
@@ -781,10 +785,10 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "ProductModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\ProductModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:57:13.391Z"
             },
@@ -792,9 +796,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "ProductModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\ProductModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -813,9 +817,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "ProductForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\ProductForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\ProductForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\ProductForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\ProductForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -826,7 +830,7 @@
               "DocumentIndex": 49,
               "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\hasan\\AppData\\Local\\Temp\\xvjyspn1..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\hasan\\AppData\\Local\\Temp\\xvjyspn1..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\hasan\\AppData\\Local\\Temp\\xvjyspn1..sql",
               "ToolTip": "SQLQuery1.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-04-28T08:40:37.351Z"
@@ -835,9 +839,9 @@
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "CategoryModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CategoryModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -847,10 +851,10 @@
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "OrderForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\OrderForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\OrderForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\OrderForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:56:54.919Z"
             },
@@ -858,10 +862,10 @@
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "MainForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\MainForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\MainForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T08:46:52.298Z"
             },
@@ -869,10 +873,10 @@
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "LoginForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\LoginForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\LoginForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\LoginForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:56:17.503Z"
             },
@@ -880,10 +884,10 @@
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "CustomerModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:56:06.702Z"
             },
@@ -891,10 +895,10 @@
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "CustomerForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:55:43.804Z"
             },
@@ -902,9 +906,9 @@
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "CustomerModuleForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerModuleForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerModuleForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerModuleForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerModuleForm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -914,10 +918,10 @@
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "CustomerButton.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerButton.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerButton.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerButton.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerButton.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerButton.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CustomerButton.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:55:34.777Z"
             },
@@ -925,10 +929,10 @@
               "$type": "Document",
               "DocumentIndex": 58,
               "Title": "CategoryModuleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryModuleForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryModuleForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryModuleForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryModuleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryModuleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryModuleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:53:02.283Z"
             },
@@ -936,10 +940,10 @@
               "$type": "Document",
               "DocumentIndex": 60,
               "Title": "CategoryForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\..\\hasan\\OneDrive\\Masa\u00FCst\u00FC\\stok kontrol\\InventoryManagementSystem\\CategoryForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:52:48.169Z"
             },
@@ -947,9 +951,9 @@
               "$type": "Document",
               "DocumentIndex": 59,
               "Title": "CategoryForm.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CategoryForm.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CategoryForm.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CategoryForm.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CategoryForm.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAUwDMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -959,9 +963,9 @@
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\Program.cs",
               "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -971,9 +975,9 @@
               "$type": "Document",
               "DocumentIndex": 62,
               "Title": "CustomerButton.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerButton.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerButton.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\CustomerButton.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\CustomerButton.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\CustomerButton.cs",
               "RelativeToolTip": "InventoryManagementSystem\\CustomerButton.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -983,9 +987,9 @@
               "$type": "Document",
               "DocumentIndex": 63,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\Aydin\\Desktop\\stok kontrol - Kopya (2)\\InventoryManagementSystem\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Aydin\\Desktop\\StokKontrolOtomasyonu\\Source\\InventoryManagementSystem\\MainForm.Designer.cs",
               "RelativeToolTip": "InventoryManagementSystem\\MainForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

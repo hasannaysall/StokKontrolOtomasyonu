@@ -13,12 +13,15 @@ namespace InventoryManagementSystem
 {
     public partial class LoginForm : Form
     {
-        SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\hasan\OneDrive\Belgeler\dbStokKontrolSistemi.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection con;
         SqlCommand cm = new SqlCommand();
         SqlDataReader dr;
+        FilePathName filePathName;
         public LoginForm()
         {
             InitializeComponent();
+            filePathName = new FilePathName();
+            con = new SqlConnection(filePathName.getFilePath());
         }
 
         private void checkBoxPass_CheckedChanged(object sender, EventArgs e)
