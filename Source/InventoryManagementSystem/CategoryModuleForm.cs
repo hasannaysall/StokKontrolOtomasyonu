@@ -13,15 +13,19 @@ namespace InventoryManagementSystem
 {
     public partial class CategoryModuleForm : Form
     {
+
         SqlConnection con;
         SqlCommand cm = new SqlCommand();
         FilePathName filePathName;
 
+
         public CategoryModuleForm()
         {
             InitializeComponent();
+
             filePathName = new FilePathName();
             con = new SqlConnection(filePathName.getFilePath());
+
         }
 
         private void btnSave_Click(object sender, EventArgs e)

@@ -21,6 +21,7 @@ namespace InventoryManagementSystem
             InitializeComponent();
             filePathName = new FilePathName();
             con = new SqlConnection(filePathName.getFilePath());
+
         }
 
         private void btnSave_Click(object sender, EventArgs e)

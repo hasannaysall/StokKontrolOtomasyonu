@@ -13,6 +13,7 @@ namespace InventoryManagementSystem
 {
     public partial class CustomerForm : Form
     {
+
         SqlConnection con;
         SqlCommand cm = new SqlCommand();
         SqlDataReader dr;
@@ -24,7 +25,7 @@ namespace InventoryManagementSystem
             filePathName = new FilePathName();
             con = new SqlConnection(filePathName.getFilePath());
             LoadCustomer();
-            
+
         }
 
         public void LoadCustomer()

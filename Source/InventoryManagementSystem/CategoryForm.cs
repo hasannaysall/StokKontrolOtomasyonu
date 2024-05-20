@@ -13,6 +13,7 @@ namespace InventoryManagementSystem
 {
     public partial class CategoryForm : Form
     {
+
         SqlConnection con;
         SqlCommand cm = new SqlCommand();
         SqlDataReader dr;
@@ -24,6 +25,7 @@ namespace InventoryManagementSystem
             con = new SqlConnection(filePathName.getFilePath());
             LoadCategory();
            
+
         }
 
         public void LoadCategory()

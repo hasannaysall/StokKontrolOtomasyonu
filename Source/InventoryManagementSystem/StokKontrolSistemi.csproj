@@ -80,6 +80,7 @@
       <DependentUpon>CustomerModuleForm.cs</DependentUpon>
     </Compile>
     <Compile Include="FilePathName.cs" />
+
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
